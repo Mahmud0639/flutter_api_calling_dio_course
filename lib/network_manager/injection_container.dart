@@ -9,7 +9,12 @@ Dio getDio() {
       onRequest: (RequestOptions options, handler) {
         print('Api Uri: ${options.uri}');
         print('Headers: ${options.headers}');
-        print('Request body: ${jsonEncode(options.data)}');
+        try{
+          print('Request body: ${jsonEncode(options.data)}');
+        }catch(e){
+          print('error: ${e.toString()}');
+        }
+
         return handler.next(options);
       },
 

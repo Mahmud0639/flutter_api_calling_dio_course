@@ -122,5 +122,34 @@ class DioHelper{
 
   }
 
+  //file upload api
+  Future<dynamic> uploadApi({required String url, required Object requestBody, bool isAuthRequired = false}) async{
+    if(isAuthRequired){
+      options.headers = headers;
+    }
+
+
+    //if we required any specific headers that we should pass with the options {Content-Type":"multipart/form-data} then we can do like this below:
+   //Options option = Options(headers: {"Content-Type":"multipart/form-data"});
+    //then we just need to pass the option with the dio.post(url, data: requestBody, options: option);
+    //here since, we need not to pass any headers specific so we can go now like the below way.
+
+    Options multipartOptions = Options(
+      headers: {"Content-Type":"multipart/form-data"}
+    );
+
+    try{
+      Response response;
+
+        response = await dio.post(url, data: requestBody, options: multipartOptions);
+
+      return response.data;
+    }catch(e){
+      return null;
+    }
+
+
+  }
+
 
 }

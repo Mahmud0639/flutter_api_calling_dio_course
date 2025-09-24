@@ -1,0 +1,228 @@
+[
+    {
+        "student_id": 2,
+        "name": "Haiko Dil",
+        "email": "haikodil.en@gmail.com",
+        "phone": "303330003",
+        "profile_id": "2",
+        "project_title": "Test project title 59",
+        "project_desc": "This is project description test only 59",
+        "imageUrl": "/uploads/7af5181d9633d3f61926c7e9d03d154f50bb85d4.jpg",
+        "total_credits": 25,
+        "departments": {
+            "dept_id": 2,
+            "dept_name": "ENG"
+        },
+        "subjects": [
+            {
+                "subject_id": 402,
+                "subject_name": "Fiction"
+            }
+        ]
+    },
+    {
+        "student_id": 3,
+        "name": "Cilao Teals",
+        "email": "cilao.bb@gmail.com",
+        "phone": "1234343",
+        "profile_id": "3",
+        "project_title": "Smart Home Energy Saver 5",
+        "project_desc": "An automatic system to reduce unnecessary power usage in homes.",
+        "imageUrl": "/uploads/9d556766e0060444c1991c1ba0a70cc83989d5d1.jpg",
+        "total_credits": 23,
+        "departments": {
+            "dept_id": 3,
+            "dept_name": "BBA"
+        },
+        "subjects": [
+            {
+                "subject_id": 302,
+                "subject_name": "Business Study"
+            }
+        ]
+    },
+    {
+        "student_id": 14,
+        "name": "Tilati Faoal",
+        "email": "tialti.cs@gmail.com",
+        "phone": "2939393",
+        "profile_id": "14",
+        "project_title": "Digital Payment Systems in Bangladesh",
+        "project_desc": "A short overview of mobile banking and its impact on urban transactions.",
+        "imageUrl": "/uploads/d6a97f13d5bc24bac480f88cf8915fe06ff156d5.png",
+        "total_credits": 29,
+        "departments": {
+            "dept_id": 14,
+            "dept_name": "CSE"
+        },
+        "subjects": [
+            {
+                "subject_id": 102,
+                "subject_name": "Algorithm"
+            }
+        ]
+    },
+    {
+        "student_id": 16,
+        "name": "Darhui Tero 5",
+        "email": "karim.ee@gmail.com",
+        "phone": "018839993",
+        "profile_id": "16",
+        "project_title": "Modern Poetry and Urban Life",
+        "project_desc": "Exploring how modern poems reflect city life and its challenges.",
+        "imageUrl": "/uploads/aafef0ddcc806b395301788f1201be928c81e06a.jpg",
+        "total_credits": 24,
+        "departments": {
+            "dept_id": 16,
+            "dept_name": "ENG"
+        },
+        "subjects": [
+            {
+                "subject_id": 402,
+                "subject_name": "Fiction"
+            }
+        ]
+    },
+    {
+        "student_id": 19,
+        "name": "Mahmud Islam",
+        "email": "mahmud.cs@example.com",
+        "phone": "01739393",
+        "profile_id": "19",
+        "project_title": "Filler",
+        "project_desc": "tyjjgfbj",
+        "imageUrl": "/uploads/8c74e4419a5b602c546cf1b5f7d2f1c853d4333e.jpg",
+        "total_credits": 26,
+        "departments": {
+            "dept_id": 19,
+            "dept_name": "CSE"
+        },
+        "subjects": [
+            {
+                "subject_id": 103,
+                "subject_name": "Operating Systems"
+            }
+        ]
+    },
+    {
+        "student_id": 20,
+        "name": "Fatema Akter",
+        "email": "fatema.ee@example.com",
+        "phone": "2939393",
+        "profile_id": "20",
+        "project_title": "reuid",
+        "project_desc": "hdhhdhbrhhrhhbr",
+        "imageUrl": "/uploads/d5ec30aad93ed13ef325caf02e7cdc2f0326508b.jpg",
+        "total_credits": 29,
+        "departments": {
+            "dept_id": 20,
+            "dept_name": "EEE"
+        },
+        "subjects": [
+            {
+                "subject_id": 201,
+                "subject_name": "Signals and Systems"
+            }
+        ]
+    },
+    {
+        "student_id": 36,
+        "name": "hdhheb",
+        "email": "vsbbdbdbhdibdbd",
+        "phone": "525566465",
+        "profile_id": "36",
+        "project_title": "Test Title 1111",
+        "project_desc": "A great power of survival women in the ocean area to stand up in the world! 1111",
+        "imageUrl": "/uploads/76c12f87bc180455baa7d24369a139a30260ebf0.jpg",
+        "total_credits": 21,
+        "departments": {
+            "dept_id": 36,
+            "dept_name": "CSE"
+        },
+        "subjects": [
+            {
+                "subject_id": 101,
+                "subject_name": "Data Structure"
+            },
+            {
+                "subject_id": 102,
+                "subject_name": "Algorithm"
+            }
+        ]
+    },
+    {
+        "student_id": 39,
+        "name": "hhgjkkgg kk tt z k",
+        "email": "hghkkjggffbnn kk",
+        "phone": "765888",
+        "profile_id": "39",
+        "project_title": "Digital Marketing Impact",
+        "project_desc": "This project explores how digital marketing influences the growth, sales, and brand visibility.m",
+        "imageUrl": "/uploads/a2401aa83b26724265a026809b61fbae933f90cc.jpg",
+        "total_credits": 21,
+        "departments": {
+            "dept_id": 39,
+            "dept_name": "BBA"
+        },
+        "subjects": [
+            {
+                "subject_id": 301,
+                "subject_name": "Principles of Manage"
+            },
+            {
+                "subject_id": 302,
+                "subject_name": "Business Study"
+            }
+        ]
+    },
+    {
+        "student_id": 40,
+        "name": "Heitu Hal",
+        "email": "fdsfsdfsdfsfws",
+        "phone": "5677888",
+        "profile_id": "40",
+        "project_title": "Final Year Thesis 1",
+        "project_desc": "Final year thesis description Final year thesis description Final year thesis description",
+        "imageUrl": "/uploads/d6a97f13d5bc24bac480f88cf8915fe06ff156d5.png",
+        "total_credits": 43,
+        "departments": {
+            "dept_id": 40,
+            "dept_name": "CSE"
+        },
+        "subjects": [
+            {
+                "subject_id": 101,
+                "subject_name": "Data Structure"
+            },
+            {
+                "subject_id": 102,
+                "subject_name": "Algorithm"
+            }
+        ]
+    },
+    {
+        "student_id": 41,
+        "name": "bappi islam",
+        "email": "ddhhgfffffhhh",
+        "phone": "47786665",
+        "profile_id": "41",
+        "project_title": "Customer Satisfaction in E-commerce",
+        "project_desc": "Customer Satisfaction in E-commerce description Customer Satisfaction in E-commerce description Customer Satisfaction in E-commerce description ",
+        "imageUrl": "/uploads/d5ec30aad93ed13ef325caf02e7cdc2f0326508b.jpg",
+        "total_credits": 32,
+        "departments": {
+            "dept_id": 41,
+            "dept_name": "EEE"
+        },
+        "subjects": [
+            {
+                "subject_id": 201,
+                "subject_name": "Signals and Systems"
+            },
+            {
+                "subject_id": 203,
+                "subject_name": "Digital Electronics"
+            }
+        ]
+    }
+]

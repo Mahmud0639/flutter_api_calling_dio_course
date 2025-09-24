@@ -1,0 +1,141 @@
+{
+  "myJsonObject": [
+    {
+      "id": 1,
+      "isActive": true,
+      "name": "Colors",
+      "details": "Color pencil",
+      "imgData": {
+        "fileName": "colors.jpg",
+        "baseUrl": "https://touhidapps.com/api/demo/"
+      },
+      "attributes": [
+        "Smell",
+        "Red",
+        "Nice"
+      ]
+    },
+    {
+      "id": 2,
+      "isActive": true,
+      "name": "Dew",
+      "details": "Dew on grass",
+      "imgData": {
+        "fileName": "dew.jpg",
+        "baseUrl": "https://touhidapps.com/api/demo/"
+      },
+      "attributes": null
+    },
+    {
+      "id": 3,
+      "isActive": false,
+      "name": "Flowers",
+      "details": "Nice Flowers",
+      "imgData": {
+        "fileName": "flowers.jpg",
+        "baseUrl": "https://touhidapps.com/api/demo/"
+      },
+      "attributes": [
+        "Smell",
+        "Red",
+        "Nice"
+      ]
+    },
+    {
+      "id": 4,
+      "isActive": true,
+      "name": "Ortensia",
+      "details": "Blue flowers",
+      "imgData": {
+        "fileName": "ortensia.jpg",
+        "baseUrl": "https://touhidapps.com/api/demo/"
+      },
+      "attributes": []
+    },
+    {
+      "id": 5,
+      "isActive": false,
+      "name": "Red Flower",
+      "details": "Beautiful red flowers",
+      "imgData": {
+        "fileName": "red_flower.jpg",
+        "baseUrl": "https://touhidapps.com/api/demo/"
+      }
+    },
+    {
+      "id": 6,
+      "isActive": true,
+      "name": "Red Flower 2",
+      "details": "Single red flower",
+      "imgData": {
+        "fileName": "red_flower2.jpg",
+        "baseUrl": "https://touhidapps.com/api/demo/"
+      },
+      "attributes": [
+        "Smell",
+        "Red",
+        "Nice"
+      ]
+    },
+    {
+      "id": 7,
+      "isActive": true,
+      "name": "Up",
+      "details": "Up movie balloons",
+      "imgData": {
+        "fileName": "up.jpg",
+        "baseUrl": "https://touhidapps.com/api/demo/"
+      },
+      "attributes": [
+        "Smell",
+        "Red",
+        "Nice"
+      ]
+    },
+    {
+      "id": 8,
+      "isActive": true,
+      "name": "Water Drops",
+      "details": "Water drops on leaves",
+      "imgData": {
+        "fileName": "water_drops.jpg",
+        "baseUrl": "https://touhidapps.com/api/demo/"
+      },
+      "attributes": [
+        "Smell",
+        "Red",
+        "Nice"
+      ]
+    },
+    {
+      "id": 9,
+      "isActive": true,
+      "name": "Water Drops 2",
+      "details": "Awesome water drop",
+      "imgData": {
+        "fileName": "water_drops2.jpg",
+        "baseUrl": "https://touhidapps.com/api/demo/"
+      },
+      "attributes": [
+        "Smell",
+        "Red",
+        "Nice"
+      ]
+    },
+    {
+      "id": 10,
+      "isActive": true,
+      "name": "Yellow Flower",
+      "details": "Yellow colored flower",
+      "imgData": {
+        "fileName": "yellow_flower.jpg",
+        "baseUrl": "https://touhidapps.com/api/demo/"
+      },
+      "attributes": [
+        "Smell",
+        "Red",
+        "Nice"
+      ]
+    }
+  ]
+}
